@@ -1,11 +1,11 @@
 # Hi there, I'm Sadia 👋
 
-🎓 I'm a Computer Science student from Somalia and an aspiring **Full-Stack Developer**  
-💻 Currently learning: JavaScript, React, Node.js, and MongoDB  
-🚀 Building: Portfolio Website  
-🌱 Always growing — one project, one habit, one lesson at a time  
-☕ I love Somali tea, reading, walking in nature, and solving problems  
-🌍 Dreaming of traveling the world someday 🌎
+🎓 A passionate **Computer Science student** from Somalia  
+💻 Aspiring **Full-Stack Developer** | Building my dream one line of code at a time  
+🌱 Currently learning: JavaScript, React, Node.js, and MongoDB  
+🌍 Dreaming of exploring the world and its cultures  
+🧠 Always curious, always growing  
+
 
 ---
 
@@ -24,6 +24,13 @@ Here are some projects I'm proud of:
 - **[More coming soon...]**
 
 ---
+
+### 😄 Fun Facts
+
+- ☕ I drink tea like it’s fuel.
+- 🌳 I love walking in green, quiet places.
+- ✈️ I want to visit every country in the world one day.
+- 🤹🏽‍♀️ I enjoy problem-solving as much as storytelling.
 
 ### 🤝 Let's Connect!
 - 📧 Email: sacdamamoud@gmail.com  

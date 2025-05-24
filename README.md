@@ -3,7 +3,7 @@
 
 🎓 A passionate **Computer Science student** from Somalia  
 💻 Aspiring **Full-Stack Developer** | Building my dream one line of code at a time  
-🌱 Currently learning: JavaScript, React, Node.js, and MongoDB  
+🌱 Currently learning: React, Node.js, and MongoDB  
 🌍 Dreaming of exploring the world and its cultures  
 🧠 Always curious, always growing  
 

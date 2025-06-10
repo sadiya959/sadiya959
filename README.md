@@ -38,7 +38,7 @@ Here are some projects I'm proud of:
 ### 🤝 Let's Connect!
 - 📧 Email: sacdamamoud@gmail.com  
 - 🌐 Portfolio: [YourPortfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/sadia-mohamoud-6214a8224/)  
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/sadia-mohamoud-6214a8224)  
 - 🌟 Let's build something great together!
 
 ---

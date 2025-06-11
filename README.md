@@ -1,46 +1,48 @@
-# Hello, I'm Sadia💻
+# 👋 Hi, I'm Sadia!
 
+I'm a **Full-Stack Web Developer** and a **Computer Science student** passionate about building clean, responsive, and user-friendly web applications.
 
-🎓 A passionate **Computer Science student** from Somalia  
-💻 Aspiring **Full-Stack Developer** | Building my dream one line of code at a time  
-🌱 Currently learning: React, Node.js, and MongoDB  
-🌍 Dreaming of exploring the world and its cultures  
-🧠 Always curious, always growing  
-
+💻 Currently part of a mentorship program focused on mastering modern web technologies — and I'm loving every minute of it!
 
 ---
 
-### 🧰 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+### 🛠 Tech Stack
+- 💡 **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- 🎨 **Styling:** Tailwind CSS, Responsive Design
+- ⚛️ **Frontend:** React.js (currently learning)
+- 🧩 **Backend:** Node.js, MongoDB *(coming soon)*
+- 🗃️ **Tools:** Git, GitHub, Vercel, Notion, VS Code
 
 ---
 
-### 📌 Featured Projects
-Here are some projects I'm proud of:
+### 🚀 Projects I'm Proud Of
 
-- **Portfolio Website** – My personal website built with HTML, CSS
-- **Blogy Website Clone** – A responsive static site built with HTML & CSS  
-- **[More coming soon...]**
+- 📚 [**Booksome Library**](https://booksome-library.vercel.app/pages/dashboard.html)  
+  A fully responsive library web app with book fetching, user auth (localStorage), and a profile page – built with JavaScript, Tailwind, and Google Books API.
 
----
+- 🎵 [**Music Player**](https://vercel.com/sadiyas-projects-0b74238e/music-player)  
+  A simple audio player using DOM manipulation and local storage.
 
-### 😄 Fun Facts
-
-- ☕ I drink tea like it’s fuel.
-- 🌳 I love walking in green, quiet places.
-- ✈️ I want to visit every country in the world one day.
-- 🤹🏽‍♀️ I enjoy problem-solving as much as storytelling.
-
-### 🤝 Let's Connect!
-- 📧 Email: sacdamamoud@gmail.com  
-- 🌐 Portfolio: [YourPortfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/sadia-mohamoud-6214a8224)  
-- 🌟 Let's build something great together!
+- 🌐 [**Responsive Landing Page**](https://github.com/sadiya959/tailwind-landing-page)  
+  Modern business-style landing page built entirely with Tailwind CSS.
 
 ---
 
-*“The journey of a thousand miles begins with a single step.” — Lao Tzu*
+### 📈 Currently Learning
+- ⚛️ React.js – components, state, props, useEffect
+- 🧠 Writing clean and scalable UI logic
+- 🛠️ Building real-world apps with modern tools
+
+---
+
+### 📬 Let's Connect
+
+- 🌍 [Portfolio Website (coming soon)]()
+- 📫 Email: sacdamamoud@gmail.com
+- 🧠 LinkedIn: (Add your link if you have one!)
+- 🌱 I'm always open to learning, collaborating, and building!
+
+---
+
+> “Stay consistent. Be curious. Build with purpose.” ✨
+

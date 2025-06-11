@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Web Developer** and a **Computer Science student** passionate about building clean, responsive, and user-friendly web applications.
 
-💻 Currently part of a mentorship program focused on mastering modern web technologies — and I'm loving every minute of it!
+💻 Currently part of *Dugsiiye* mentorship program focused on mastering modern web technologies — and I'm loving every minute of it!
 
 ---
 

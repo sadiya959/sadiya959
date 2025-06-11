@@ -20,7 +20,7 @@ I'm a **Full-Stack Web Developer** and a **Computer Science student** passionate
 - 📚 [**Booksome Library**](https://booksome-library.vercel.app/pages/dashboard.html)  
   A fully responsive library web app with book fetching, user auth (localStorage), and a profile page – built with JavaScript, Tailwind, and Google Books API.
 
-- 🎵 [**Music Player**](https://vercel.com/sadiyas-projects-0b74238e/music-player)  
+- 🎵 [**Music Player**](https://music-player-dusky-zeta.vercel.app/)  
   A simple audio player using DOM manipulation and local storage.
 
 - 🌐 [**Responsive Landing Page**](https://github.com/sadiya959/tailwind-landing-page)  
@@ -39,7 +39,7 @@ I'm a **Full-Stack Web Developer** and a **Computer Science student** passionate
 
 - 🌍 [Portfolio Website (coming soon)]()
 - 📫 Email: sacdamamoud@gmail.com
-- 🧠 LinkedIn: (Add your link if you have one!)
+- 🧠 LinkedIn: (https://www.linkedin.com/in/sadia-mohamoud-6214a8224)
 - 🌱 I'm always open to learning, collaborating, and building!
 
 ---

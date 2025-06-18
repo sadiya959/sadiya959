@@ -6,6 +6,8 @@ I'm a Full-Stack Web Developer in training and a Computer Science student, passi
 • React.js – components, props, state, and real-world UI logic  
 • Modern web tools through the Dugsiiye mentorship program
 
+---
+
 🛠 Tech Stack
 • HTML5, CSS3, JavaScript (ES6+)  
 • Tailwind CSS, Responsive Design  
@@ -16,6 +18,8 @@ I'm a Full-Stack Web Developer in training and a Computer Science student, passi
 • **Booksome Library** – Responsive web app using Tailwind, JS, and Google Books API  
 • **Music Player** – Simple audio player built with vanilla JS  
 • **Landing Page** – Clean homepage using Tailwind CSS
+
+--- 
 
 🤝 Open to Collaborate On
 • Front-end web projects (React, Tailwind)  

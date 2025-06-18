@@ -24,7 +24,7 @@ I'm a Full-Stack Web Developer in training and a Computer Science student, passi
 • **Music Player** – Simple audio player built with vanilla JS  
 • **Landing Page** – Clean homepage using Tailwind CSS
 
---- 
+
 
 🤝 Open to Collaborate On
 • Front-end web projects (React, Tailwind)  

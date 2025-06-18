@@ -19,7 +19,7 @@ I'm a Full-Stack Web Developer in training and a Computer Science student, passi
 • React.js (in progress)  
 • Git, GitHub, VS Code, Vercel
 
-🌟 Projects I'm Proud Of
+###🌟 Projects I'm Proud Of
 • **Booksome Library** – Responsive web app using Tailwind, JS, and Google Books API  
 • **Music Player** – Simple audio player built with vanilla JS  
 • **Landing Page** – Clean homepage using Tailwind CSS

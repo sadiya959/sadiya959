@@ -1,5 +1,6 @@
 👋 Hi, I'm Sadia!
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiya959&label=Profile%20views&color=0e75b6&style=flat" alt="sadiya959" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-
+                                                                                                                                                                   
 I'm a Full-Stack Web Developer in training and a Computer Science student, passionate about building clean, responsive, and user-friendly web applications.
 
 💻 Currently Learning
@@ -36,6 +37,6 @@ I'm a Full-Stack Web Developer in training and a Computer Science student, passi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiya959&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadiya959&theme=radical)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiya959&label=Profile%20views&color=0e75b6&style=flat" alt="sadiya959" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiya959" alt="sadiya959" /></a> </p>
+profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiya959" alt="sadiya959" /></a> </p>
 
 Thanks for visiting — feel free to check out my work! 😊

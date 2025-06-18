@@ -7,13 +7,13 @@
                                                                                                                                                                    
 I'm a Full-Stack Web Developer in training and a Computer Science student, passionate about building clean, responsive, and user-friendly web applications.
 
-💻 Currently Learning
+### 💻 Currently Learning
 • React.js – components, props, state, and real-world UI logic  
 • Modern web tools through the Dugsiiye mentorship program
 
 
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 • HTML5, CSS3, JavaScript (ES6+)  
 • Tailwind CSS, Responsive Design  
 • React.js (in progress)  

@@ -1,41 +1,35 @@
 👋 Hi, I'm Sadia!
 
-I'm a Full-Stack Web Developer in training and a passionate Computer Science student dedicated to building clean, responsive, and user-friendly web applications.
+I'm a Full-Stack Web Developer in training and a Computer Science student passionate about building clean, responsive, and user-friendly web applications.
 
-💡 What I'm Currently Working On  
-🌱 Learning React.js — mastering components, props, state, and real-world UI logic  
-🚀 Building real-world projects through the Dugsiiye mentorship program  
-🧠 Expanding my frontend skills and preparing to dive into backend development with Node.js & MongoDB  
+💻 Currently Learning
+• React.js – components, props, state, useEffect
+• Building real-world UI with modern tools
 
-🛠 Tech Stack  
-🔹 Languages: HTML5, CSS3, JavaScript (ES6+)  
-🎨 Styling: Tailwind CSS, Responsive Design  
-⚛️ Frontend: React.js (currently learning)  
-🧩 Backend: Node.js, MongoDB (coming soon)  
-🛠 Tools: Git, GitHub, VS Code, Notion, Vercel  
+🛠 Tech Stack
+• HTML5, CSS3, JavaScript (ES6+)
+• Tailwind CSS, Responsive Design
+• React.js (learning)
+• Git, GitHub, VS Code, Vercel
 
-🌟 Projects I'm Proud Of  
-📚 **Booksome Library** – A responsive library app using Tailwind, JS, and Google Books API. Features user auth and a clean UI.  
-🎵 **Music Player** – A simple web audio player built with vanilla JS and local storage.  
-🌐 **Responsive Landing Page** – A modern, clean business-style homepage using only Tailwind CSS.
+🌟 Notable Projects
+• **Booksome Library** – A responsive web app using Tailwind, JS, and Google Books API
+• **Music Player** – Simple player with vanilla JS and local storage
+• **Landing Page** – Clean, responsive homepage built with Tailwind CSS
 
-👯 I'm Open to Collaborate On  
-✅ Web development projects (React, Tailwind, JavaScript)  
-✅ Open-source contributions  
-✅ Real-world apps solving meaningful problems  
+🤝 Open to Collaborate On
+• Front-end projects (React, Tailwind)
+• Real-world problem solving with clean UI
 
-📬 Let's Connect  
-📧 Email: sacdamamoud@gmail.com  
-🔗 LinkedIn: [sadia-mohamoud-6214a8224](https://www.linkedin.com/in/sadia-mohamoud-6214a8224)  
-🌐 Portfolio Website: _coming soon_  
+📫 Reach Me
+• Email: sacdamamoud@gmail.com
+• LinkedIn: [sadia-mohamoud](https://www.linkedin.com/in/sadia-mohamoud-6214a8224)
 
-⚡ Fun Fact: I love reading books and solving tech challenges in my free time!  
-
-📊 GitHub Stats and Streaks  
-<!-- Replace these with your actual GitHub stats images if you'd like -->
-![Sadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiya959&show_icons=true&theme=radical)  
-![Sadia's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadiya959&theme=radical)
+⚡ Fun Fact: I enjoy reading and solving tech puzzles!
 
 ---
 
-Thanks for stopping by — feel free to explore my repositories! 😊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiya959&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadiya959&theme=radical)
+
+Thanks for visiting! 😊

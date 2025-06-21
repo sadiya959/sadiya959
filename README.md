@@ -39,7 +39,7 @@ I'm a Full-Stack Web Developer in training and a Computer Science student, passi
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiya959&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadiya959&theme=radical)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-rofile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiya959" alt="sadiya959" /></a> </p>
+
 Thanks for visiting — feel free to check out my work! 😊

@@ -1,47 +1,51 @@
 # 👋 Hi, I'm Sadia!
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sadiya959&label=Profile%20views&color=0e75b6&style=flat" alt="sadiya959" /> 
-</p> 
-
-                                                                                                                                                                   
-I'm a Full-Stack Web Developer in training and a Computer Science student, passionate about building clean, responsive, and user-friendly web applications.
-
-### 💻 Currently Learning
-• React.js – components, props, state, and real-world UI logic  
-• Modern web tools through the Dugsiiye mentorship program
-
-
-
-### 🛠 Tech Stack
-• HTML5, CSS3, JavaScript (ES6+)  
-• Tailwind CSS, Responsive Design  
-• React.js (in progress)  
-• Git, GitHub, VS Code, Vercel
-
-### 🌟 Projects I'm Proud Of 
-• **Booksome Library** – Responsive web app using Tailwind, JS, and Google Books API  
-• **Music Player** – Simple audio player built with vanilla JS  
-• **Landing Page** – Clean homepage using Tailwind CSS
-
-
-
-🤝 Open to Collaborate On
-• Front-end web projects (React, Tailwind)  
-• Real-world apps that solve meaningful problems
-
-📫 Let's Connect
-• Email: sacdamamoud@gmail.com  
-• LinkedIn: [sadia-mohamoud](https://www.linkedin.com/in/sadia-mohamoud-6214a8224)
-
-⚡ Fun Fact: I love reading and solving tech puzzles. I believe learning never stops!
+💻 Full-Stack Web Developer in training | 🎓 Computer Science Student | 🌍 Lifelong Learner  
+Passionate about building **clean, responsive, and user-friendly web applications**.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiya959&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadiya959&theme=radical)
+## 🌱 Currently Learning
+- ⚛️ React.js (components, props, state, real-world UI logic)  
+- 🎨 Tailwind CSS & Responsive Design  
+- 🟢 Node.js & MongoDB (coming soon)
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-rofile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiya959" alt="sadiya959" /></a> </p>
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vite,vercel" />
+</p>
 
-Thanks for visiting — feel free to check out my work! 😊
+---
+
+## 📌 Projects I'm Proud Of
+
+🔹 **[Bella Bella Restaurant](https://bella-bella-black.vercel.app/)**  
+🍕 Online restaurant app with dynamic menu filtering, dish details, and booking system.  
+[Repo](https://github.com/sadiya959/bella-bella)
+
+🔹 **[Gaming Gear Pro](https://gaming-gear-pro.vercel.app/)**  
+🎮 Product showcase site with shopping cart & wishlist functionality.  
+[Repo](https://github.com/sadiya959/gaming-gear-pro)
+
+🔹 **[Booksome Library](https://github.com/sadiya959/Booksome-Library)**  
+📚 Responsive web app using Tailwind + Google Books API.  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiya959&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiya959&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+- 📧 Email: **sacdamamoud@gmail.com**  
+- 💼 LinkedIn: [sadia mahmoud](https://www.linkedin.com/in/sadia-mahmoud/)  
+
+---
+
+✨ *Fun Fact:* I love reading 📖, tea ☕, and solving tech puzzles 🧩. Learning never stops!

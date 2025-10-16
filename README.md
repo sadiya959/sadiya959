@@ -5,10 +5,8 @@ Passionate about building **clean, responsive, and user-friendly web application
 
 ---
 
-## 🌱 Currently Learning
-- ⚛️ React.js (components, props, state, real-world UI logic)  
-- 🎨 Tailwind CSS & Responsive Design  
-- 🟢 Node.js & MongoDB (coming soon)
+## 🌱 Currently Learning 
+- 🟢 SQL & MongoDB
 
 ---
 
@@ -21,13 +19,13 @@ Passionate about building **clean, responsive, and user-friendly web application
 
 ## 📌 Projects I'm Proud Of
 
-🔹 **[Bella Bella Restaurant](https://bella-bella-black.vercel.app/)**  
-🍕 Online restaurant app with dynamic menu filtering, dish details, and booking system.  
-[Repo](https://github.com/sadiya959/bella-bella)
+🔹 **[Learnzy](https://learnzy-six.vercel.app/)**  
+👨‍🏫 learning management system where students can browse courses, enroll, track progress 
+[Repo](https://github.com/sadiya959/Learnzy)
 
-🔹 **[Gaming Gear Pro](https://gaming-gear-pro.vercel.app/)**  
-🎮 Product showcase site with shopping cart & wishlist functionality.  
-[Repo](https://github.com/sadiya959/gaming-gear-pro)
+🔹 **[VibeMart](https://vibemart-beige.vercel.app/)**  
+ 🛒 modern, responsive e-commerce web app built with React and Tailwind CSS. It offers a smooth shopping experience with category-based browsing.
+[Repo](https://github.com/sadiya959/vibemart)
 
 🔹 **[Booksome Library](https://github.com/sadiya959/Booksome-Library)**  
 📚 Responsive web app using Tailwind + Google Books API.  

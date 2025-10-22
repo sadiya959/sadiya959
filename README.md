@@ -12,7 +12,7 @@ Passionate about building **clean, responsive, and user-friendly web application
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vite,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongodb" />
 </p>
 
 ---

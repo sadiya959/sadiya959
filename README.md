@@ -6,7 +6,7 @@ Passionate about building **clean, responsive, and user-friendly web application
 ---
 
 ## 🌱 Currently Learning 
-🎫 SQL & MongoDB
+🎫 Nextjs  & TypeScript
 
 ---
 

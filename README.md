@@ -42,7 +42,7 @@ Passionate about building **clean, responsive, and user-friendly web application
 
 ## 🤝 Let's Connect
 - 📧 Email: **sacdamamoud@gmail.com**  
-- 💼 LinkedIn: [sadia mahmoud](https://www.linkedin.com/in/sadia-mahmoud/)  
+- 💼 LinkedIn: [sadia mahmoud](https://www.linkedin.com/in/sadia-webdev)  
 
 ---
 

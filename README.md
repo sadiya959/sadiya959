@@ -21,13 +21,13 @@ Passionate about building **clean, responsive, and user-friendly web application
 
 🔹 **[Learnzy](https://learnzy-six.vercel.app/)**  
 👨‍🏫 learning management system where students can browse courses, enroll, track progress 
-[Repo](https://github.com/sadiya959/Learnzy)
+[Repo](https://github.com/sadia-webdev/Learnzy)
 
 🔹 **[VibeMart](https://vibemart-beige.vercel.app/)**  
  🛒 modern, responsive e-commerce web app built with React and Tailwind CSS. It offers a smooth shopping experience with category-based browsing.
-[Repo](https://github.com/sadiya959/vibemart)
+[Repo](https://github.com/sadia-webdev/vibemart)
 
-🔹 **[Booksome Library](https://github.com/sadiya959/Booksome-Library)**  
+🔹 **[Booksome Library](https://github.com/sadia-webdev/Booksome-Library)**  
 📚 Responsive web app using Tailwind + Google Books API.  
 
 ---
